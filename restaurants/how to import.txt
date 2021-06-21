@@ -1,0 +1,2 @@
+ mongoimport --db HW_Restaurants --collection rest --file rest.json
+ mongoimport --db dbName --collection collectionName --file fileName.json --jsonArray
